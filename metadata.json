@@ -1,0 +1,5 @@
+{
+  "name": "Trend Explainer",
+  "description": "An AI-powered application that takes a current trend keyword and provides a simple, structured explanation covering 'what it is', 'why it's trending', and 'who should care'.",
+  "requestFramePermissions": []
+}
